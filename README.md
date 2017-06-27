@@ -3,10 +3,10 @@
 This is a newly established team, led by Dr. Chengkun Wu. The team focuses on harnessing the computing power of high performance systems and state-of-the-art algorithms to tackle the data and computing problem in the biomedical domain. 
 
 ### Group members
-- PI: Dr. Chengkun Wu
-- Ph.D. student: Wei Wang
-- MSc student: Xi Yang
-- MSc student: Yuting Xing
+- **PI**: _Dr. Chengkun Wu_
+- **Ph.D. student**: _Wei Wang_
+- **MSc student**: _Xi Yang_
+- **MSc student**: _Yuting Xing_
 
 ### Publications 
 1. Wu, Chengkun; Schwartz, Jean-Marc; Nenadic, Goran; "PathNER: a tool for systematic identification of biological pathway mentions in the literature", BMC systems biology,7,3,S2,2013,BioMed Central
